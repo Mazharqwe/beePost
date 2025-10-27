@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Hash;
 use Illuminate\View\View;
 use Psr\Container\ContainerExceptionInterface;
 use Psr\Container\NotFoundExceptionInterface;
-
+   
 class InstallerController extends Controller
 {
 
